@@ -10,12 +10,20 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
+print("I dont have a favorite song, but I like "You Say" by Lauren Diagle")
 
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
+Print("This is the chorus")
+Print("you say i am loved when i cant feel a thing")
+print("you say i am strong when I think I am  weak")
+print("and you say I am held when I am falling short")
+print("and when I dont belong, oh you say I am yours")
+print("and I believe(I),oh i believe(I)")
+print("what you say of me (i)")
+print("i believe")
 
 
 /*:
